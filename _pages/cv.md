@@ -113,7 +113,7 @@ UCLA Chancellor's Service Award
 Relevant Coursework
 ======
 Undergraduate MIMG Coursework 
-* Nuclear Cell Biology, Bioethics, Biochemistry I, Microbiology, Virology, Microbial Genomics, Scientific Communication I/II, Immunology 
+* Nuclear Cell Biology, Biochemistry I, Microbiology, Virology, Microbial Genomics, Bioethics, Scientific Communication I/II, Immunology 
 
 Graduate Dual-Enrolled Classes 
 * Advanced Immunology, Algorithms in Bioinformatics 
