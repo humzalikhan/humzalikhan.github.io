@@ -110,3 +110,10 @@ Association of Biomedical Research Undergraduate Research Grant
 UCLA Chancellor's Service Award 					                                 
   * Given to graduating students with an extraordinary commitment to service
 
+Relevant Coursework
+======
+Undergraduate MIMG Coursework 
+* Nuclear Cell Biology, Bioethics, Biochemistry I, Microbiology, Virology, Microbial Genomics, Scientific Communication I/II, Immunology 
+
+Graduate Dual-Enrolled Classes 
+* Advanced Immunology, Algorithms in Bioinformatics 
