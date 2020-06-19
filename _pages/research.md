@@ -16,7 +16,7 @@ At some indeterminate time in the future, I plan on applying to MD-PhD programs.
 **Basic and Translational Research**
 ======
 
-I entered the [Butte laboratory](https://tcell.mimg.ucla.edu/) in my freshman year of college. I floundered around for a few months, trying to figure out how to use a pippete, before I became somewhat useful.
+I entered the [Butte laboratory](https://tcell.mimg.ucla.edu/) in my freshman year of college. I floundered around for a few months, trying to figure out how to use a pipette, before I became somewhat useful.
 
 Then, I spent some time working on a potential allergy diagnostic called the Basophil Activation Test. I spent about six months on this project. The test wasn't reliable across control donors, so we scrapped it. During this time, I mentored Ilan Bocian, a high school student who is now a freshman at Yeshiva University in New York.  
 
