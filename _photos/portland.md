@@ -1,7 +1,7 @@
 ---
 title: "Portland/Crater Lake"
 excerpt: "with the bois"
-collection: pictures
+collection: photos
 ---
 
 
