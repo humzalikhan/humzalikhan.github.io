@@ -4,6 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
+  - /cvs
   - /cv
 ---
 
@@ -55,7 +56,7 @@ Volunteering and Service
   * Garnered over $10,000 in funding for students' projects and club maintenance
   * Coordinated three city-wide science fairs
   * Revamped organization website
-  * Coordinated site visits of 60+ mentors and 75+ mentees
+  * Coordinated site visits of 75+ mentors and 100+ mentees
   
 
 * **Assessing Residents’ CI-CARE**
@@ -68,13 +69,13 @@ Volunteering and Service
   * Spearheaded a project to increase efficiency by digitizing surveying
   * Led a group of five volunteers to analyze data to assess resident physician communication scores
   * Affiliated as organization photographer, research associate, social media director, and website editor
-  * Coordinated site visits of 60+ mentors and 75+ mentees
 
 * **Irvington High School Alumni Mentor**
 
   September 2018-Present
 
   * Guiding students of my former high school with extracurriculars, college admissions, and life advice 
+  * Gave talk to parents regarding supporting their children during the admissions cycle
   
 Skills
 ======
