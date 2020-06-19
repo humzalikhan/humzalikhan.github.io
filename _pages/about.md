@@ -13,4 +13,4 @@ I've spent the past 2 and a half years working in the Butte lab, performing both
 
 Some other things I care about, in no particular order, are: mentorship to underserved populations (especially in STEM), reproducibility in science, photography, reading, learning deeply about random topics, and (failing at) the harmonica.
 
-If you're interested in any of this, please do take a look around or shoot me a line via email. 
+If you're interested in any of this, go ahead and take a look around or shoot me a line via email. 
