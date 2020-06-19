@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  pictures:
+  photos:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -242,7 +242,7 @@ defaults:
   # _photos
   - scope:
       path: ""
-      type: pictures
+      type: photos
     values:
       layout: single
       author_profile: true
@@ -256,7 +256,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
