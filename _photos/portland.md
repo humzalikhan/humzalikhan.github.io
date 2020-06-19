@@ -1,7 +1,7 @@
 ---
 title: "Portland/Crater Lake"
 excerpt: "with the bois"
-collection: photos
+collection: pictures
 ---
 
 <img src="/images/portfolio/arvind.jpg" style="height: 30vw">
