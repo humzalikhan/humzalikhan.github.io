@@ -11,9 +11,9 @@ title                    : "Humza Ali Khan"
 title_separator          : "-"
 name                     : &name "Humza Ali Khan"
 description              : &description ""
-url                      : "https://humzakhan340.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://humzalikhan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "humzakhan340/humzakhan340.github.io"
+repository               : "humzalikhan/humzalikhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         : "UCLA"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "humzakhan340 at g.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "humzakhan340"
+  github           : "humzalikhan"
   google_plus      :
   keybase          :
   instagram        :
