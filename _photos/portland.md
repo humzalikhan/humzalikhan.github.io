@@ -4,7 +4,7 @@ excerpt: "Feat. Saagar and Arvind"
 collection: photos
 ---
 
-<img src="/images/portfolio/arvind.jpg">
+<img src="/images/portfolio/arvind.jpg" style="height: 60vw">
 
 <img src="/images/portfolio/crater.jpg">
 
