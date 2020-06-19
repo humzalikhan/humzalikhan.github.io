@@ -16,9 +16,9 @@ Outside of science, here's some things I enjoy doing.
 
 Much of my personal fulfillment comes from discussing with people who (for some reason) want my advice. 
 
-In The XPeriment, I've gotten the kids I mentor excited about science. The yearly science fairs are some of my best memories and represent the culimination of diligence and hard work on the part of the students. I try to be a wall that they can lean on, but I ardently support letting them struggle just enough to figure out their projects and learn something.
+In [The XPeriment](https://www.thebruinexperiment.com/), I've gotten the kids I mentor excited about science. The yearly science fairs are some of my best memories and represent the culimination of diligence and hard work on the part of the students. I try to be a wall that they can lean on, but I ardently support letting them struggle just enough to figure out their projects and learn something.
 
-As an Irvington High School (IHS) alumni mentor, I've talked to tens of students about the paths that they want to pursue and where they want to go. I'm just a college senior, so I help how I can. 
+As an [Irvington High School (IHS) alumni mentor](https://ihsvikings.org/alumni), I've talked to tens of students about the paths that they want to pursue and where they want to go. I'm just a college senior, so I help how I can. 
 
 Even if you're not an LA middle schooler or an IHS student, I'd be happy to chat about pursuing research as an undergraduate or college admissions/major planning. 
 
