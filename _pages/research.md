@@ -28,7 +28,7 @@ CVID patients are incredibly heterogenous; most suffer primarily infectious comp
 
 Our work is trying to understand signaling patterns in these autoimmune patients so that they can be treated more aggressively, earlier, and hopefully for the better. 
 
-CyTOF data happens to be incredibly high dimensional. Every experiment I run generates over 2 gigabytes of data. For this reason, I started applying data science tools to my ever-expanding dataset. This involves data cleaning, automated sub-population mean extraction via Gaussian mixture models, and batch effects correction.
+CyTOF data happens to be incredibly high dimensional. Every experiment I run generates over 2 gigabytes of data. For this reason, I started applying data science tools to my ever-expanding dataset. This involves data cleaning, automated sub-population mean extraction, and batch effects correction.
 
 The analysis pipeline that I'm creating will (hopefully) be released as an R package for general analysis of CyTOF signaling data.
 
