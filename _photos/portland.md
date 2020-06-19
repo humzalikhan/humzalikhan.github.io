@@ -1,7 +1,7 @@
 ---
 title: "Portland/Crater Lake"
 excerpt: "Feat. Saagar and Arvind"
-collection: pictures
+collection: photos
 ---
 
 <img src="/images/portfolio/arvind.jpg" style="height: 30vw">
