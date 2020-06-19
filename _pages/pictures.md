@@ -5,6 +5,7 @@ permalink: /pictures/
 author_profile: true
 redirect_from:
 - /picture
+- /pictures
 - /photos
 - /photo
 ---
