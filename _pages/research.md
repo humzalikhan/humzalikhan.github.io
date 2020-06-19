@@ -32,7 +32,7 @@ CyTOF data happens to be incredibly high dimensional. Every experiment I run gen
 
 The analysis pipeline that I'm creating will (hopefully) be released as an R package for general analysis of CyTOF signaling data.
 
-If you are interested in the science, I'm flattered. For further reading, my undergraduate thesis is attached <a href="humzalikhan.github.io/_pages/UndergraduateThesis.pdf" target="_blank">here</a>
+If you are interested in the science, I'm flattered. For further reading, my undergraduate thesis is attached [here] (https://github.com/humzalikhan/humzalikhan.github.io/blob/master/_HKSpecificFiles/UndergraduateThesis.pdf).
 
 
 **Clinical Work**
