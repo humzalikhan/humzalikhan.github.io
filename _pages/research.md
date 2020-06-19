@@ -34,6 +34,9 @@ The analysis pipeline that I'm creating will (hopefully) be released as an R pac
 
 If you are interested in the science, I'm flattered. For further reading, my undergraduate thesis is attached [here] (https://github.com/humzalikhan/humzalikhan.github.io/blob/master/_HKSpecificFiles/Undergraduate%20Thesis2.pdf) 
 
+<a href="/_HKSpecificFiles/Undergraduate%20Thesis2.pdf.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+
 **Clinical Work**
 ======
 
