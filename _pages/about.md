@@ -7,7 +7,7 @@ redirect_from:
   - /about
   - /about.html
 ---
-I'm a 4th year UCLA student studying Microbiology, Immunology, and Molecular Genetics. Quite a mouthful, I know. If you care for some credentials, they're listed in my CV [here](https://humzalikhan.github.io/cv/). 
+I'm a 4th year UCLA undergraduate studying Microbiology, Immunology, and Molecular Genetics. Quite a mouthful, I know. If you want some specifics, they're listed in my CV [here](https://humzalikhan.github.io/cv/). 
 
 I've spent the past 2 and a half years working in the Butte lab, performing both basic science and translational immunology research. My biggest undertaking is an independent project to better understand Common Variable Immunodeficiency (CVID) using higher dimensional data analytics and novel data science methods. 
 
