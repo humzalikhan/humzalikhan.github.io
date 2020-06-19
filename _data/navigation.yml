@@ -3,9 +3,6 @@ main:
   - title: "Research"
     url: /research/
  
-  - title: "CV"
-    url: /cv/
-
   - title: "Other Passions"
     url: /passions/    
 
@@ -17,3 +14,6 @@ main:
         
   - title: "Blog"
     url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
