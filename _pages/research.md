@@ -16,7 +16,7 @@ At some indeterminate time in the future, I plan on applying to MD-PhD programs.
 **Basic and Translational Research**
 ======
 
-I entered the Butte laboratory in my freshman year of college. I floundered around for a few months, trying to figure out how to use a pippete, before I became somewhat useful.
+I entered the [Butte laboratory] (https://tcell.mimg.ucla.edu/) in my freshman year of college. I floundered around for a few months, trying to figure out how to use a pippete, before I became somewhat useful.
 
 Then, I spent some time working on a potential allergy diagnostic called the Basophil Activation Test. I spent about six months on this project. The test wasn't reliable across control donors, so we scrapped it. During this time, I mentored Ilan Bocian, a high school student who is now a freshman at Yeshiva University in New York.  
 
@@ -40,7 +40,7 @@ If you are interested in the science, I'm flattered. Feel free to contact me wit
 **Clinical Work**
 ======
 
-Assessing Residents' CI-CARE is an organization that partners with the David Geffen School of Medicine to evaluate resident physicians through surveys. I joined this organization as a freshman in college and volunteered as a surveyer for two years. During this time, I began to assume leadership roles, particularly in the clinical research branch of our organization. 
+[Assessing Residents' CI-CARE] (https://www.uclahealth.org/arc/) is an organization that partners with the David Geffen School of Medicine to evaluate resident physicians through surveys. I joined this organization as a freshman in college and volunteered as a surveyer for two years. During this time, I began to assume leadership roles, particularly in the clinical research branch of our organization. 
 
 Our organization wanted to utilize the data that we collected to ensure that residents were improving as they continued their training. It turned out that they were, woohoo! 
 
