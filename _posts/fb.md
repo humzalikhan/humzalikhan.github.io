@@ -1,7 +1,7 @@
 ---
 title: 'On Leaving Facebook'
 date: 2019-07-19
-permalink: /blog/fb/
+permalink: /post/fb/
 tags:
   - facebook
   - socialmedia
