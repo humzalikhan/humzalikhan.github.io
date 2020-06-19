@@ -1,6 +1,6 @@
 ---
 title: "Malibu"
-excerpt: "Feat. ARC '19"
+excerpt: "01/18"
 collection: photos
 ---
 
