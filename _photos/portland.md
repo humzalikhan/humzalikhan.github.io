@@ -1,6 +1,6 @@
 ---
 title: "Portland/Crater Lake"
-excerpt: "with the bois"
+excerpt: "Feat. Saagar and Arvind"
 collection: pictures
 ---
 
