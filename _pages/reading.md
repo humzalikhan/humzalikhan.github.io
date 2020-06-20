@@ -38,8 +38,8 @@ I'm trying to keep track of what I read. I'm smart enough to annotate my books a
     their daughter for epilepsy with Hmong folk medicine and Western medicine. The story is a heartbreaking struggle of 
     miscommunication and cultural discordance between US healthcare and the Hmong community. How can you explain the clinical 
     efficacy of Dilantin to an illiterate family whose self-sufficiency has been stolen from them by a US sponsored war? 
- * In context of COVID, rampant systemic racism (in science, too!), and the polarization of our society, this book convinced 
-   that we need more than science for a harmonious, equitable society. 
+  * In context of COVID, rampant systemic racism (in science, too!), and the polarization of our society, this book convinced 
+    that we need more than science for a harmonious, equitable society. 
 * *How We Do Harm* by Otis Brawley and Paul Goldberg
   * Another killer book which made me question the American medical system deeply. Why aren't there evidence-based guidelines     for treatment of widespread disorders, such as melanoma or breast cancer? Why is off-label drug use permissible in common     disease scenarios, even if there isn't scientific evidence for their effectiveness? We need logic and science more than       ever and it is a disgrace to medicine that we have veered so far from them. We don't live in the age of Hippocrates and       postulation anymore; we live in the era of statistics and rationality. By no means do I think research and science are         perfect, but they are all we have in the fight against disease and the fight for humanity. 
   * Note: I work in rare disease; some of the points in the book wouldn't apply to these patients. If you have an n=1 rare 
