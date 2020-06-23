@@ -10,6 +10,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I'm Reading**
 * *Between The World and Me* by Ta-Nehisi Coates
+* *Where Do You Think We Are?* by Shea Serrano and Arturo Torres
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
