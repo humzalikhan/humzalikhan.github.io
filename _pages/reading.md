@@ -11,13 +11,13 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I'm Reading**
 * *Between The World and Me* by Ta-Nehisi Coates
 * *Where Do You Think We Are?* by Shea Serrano and Arturo Torres
+* *Deep Medicine* by Eric Topol
 
 **What I Want to Read**
 * *Fever Dream* by Samanta Schweblin
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
 * *The Plague* by Albert Camus
 * *The Namesake* by Jhumpa Lahiri
-* *Deep Medicine* by Eric Topol
 * *Cat's Cradle* by Kurt Vonnegut
 * *Pity the Reader* by Kurt Vonnegut and Suzanne McConnell
 * *The Bell Jar* by Sylvia Plath
