@@ -27,7 +27,7 @@ I don't charge, nor do I bite.
 **Reading**
 ======
 
-My fondest memories of childhood are biking to a nearby park, sitting down under a tree, and reading. Childhood favorites of mine are *The Giver*, *Oh, The Place's You'll Go*, and *Calvin and Hobbes*.
+My fondest memories of childhood are biking to a nearby park, sitting down under a tree, and reading. Childhood favorites of mine are *The Giver*, *Oh, The Places You'll Go*, and *Calvin and Hobbes*.
 
 Current favorites of mine include (but are not limited to) *Being Mortal* by Atul Gawande, *The Spirit Catches You and You Fall Down* by Anne Fadiman, and anything by Kurt Vonnegut (*Mother Night* is a favorite). 
 
