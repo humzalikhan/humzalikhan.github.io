@@ -32,6 +32,8 @@ CyTOF data happens to be incredibly high dimensional. Every experiment I run gen
 
 The analysis pipeline that I'm creating will (hopefully) be released as an R package for general analysis of CyTOF signaling data.
 
+The next steps are integrating exomic variants and cell counts to better phenotype these individuals and hopefully create a preliminary roadmap for the disease course of CVID.
+
 If you are interested in the science, I'm flattered. Feel free to contact me with questions or to discuss.
 
 [comment]: <here (https://github.com/humzalikhan/humzalikhan.github.io/blob/master/_HKSpecificFiles/UndergraduateThesis.pdf)>
