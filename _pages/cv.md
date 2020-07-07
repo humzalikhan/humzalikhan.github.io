@@ -92,11 +92,11 @@ Skills
   
 Publications
 ======
-Thauland TJ, **Khan HA**, Butte MJ (2019). The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. Link.[https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full.]
+Thauland TJ, **Khan HA**, Butte MJ (2019). The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. [Link.](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full)
 
 Posters and Abstracts
 ======
-**Khan HA**, Thauland TJ, Garcia AJ, Butte MJ (2020). A Signaling and Phenotypic Analysis of Common Variable Immunodeficiency Patients through Mass Cytometry. Journal of Clinical Immunology. Supplement 1:S1 40 –S163. Link.[https://cis.clinimmsoc.org/UserFiles/file/FINALAM20AbstractsJOCI.pdf]
+**Khan HA**, Thauland TJ, Garcia AJ, Butte MJ (2020). A Signaling and Phenotypic Analysis of Common Variable Immunodeficiency Patients through Mass Cytometry. Journal of Clinical Immunology. Supplement 1:S1 40 –S163. [Link.](https://cis.clinimmsoc.org/UserFiles/file/FINALAM20AbstractsJOCI.pdf)
 
 **Khan HA**, Thauland TJ, Garcia AJ, Butte MJ. A Signaling and Phenotypic Analysis of Common Variable Immunodeficiency Patients through Mass Cytometry. Presented at MIMG Undergraduate Research Symposium; 2019 December 6; Los Angeles, Ca.
 
