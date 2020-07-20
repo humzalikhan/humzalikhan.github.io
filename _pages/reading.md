@@ -10,7 +10,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I'm Reading**
 * *Between The World and Me* by Ta-Nehisi Coates
-* *The Rubaiyat of Omar Khayyam 
+* *The Rubaiyat of Omar Khayyam*
 
 **What I Want to Read**
 * *Fever Dream* by Samanta Schweblin
