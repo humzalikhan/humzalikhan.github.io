@@ -14,6 +14,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I Want to Read**
 * *Fever Dream* by Samanta Schweblin
+* *I'm Thinking of Ending Things* by Iain Reid
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
 * *The Plague* by Albert Camus
 * *The Namesake* by Jhumpa Lahiri
