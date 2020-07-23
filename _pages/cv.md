@@ -16,6 +16,9 @@ BS (in progress): University of California, Los Angeles — Microbiology, Immuno
 
   *Receiving Degree with Departmental Honors and an Emphasis on Advanced Independent Research* 	
   
+  *Departmental Honors Thesis: [A Systems-Level Analysis of Common Variable Immunodeficiency]* 
+
+  
   Expected Graduation: December 2020
 
 Research
@@ -42,6 +45,14 @@ Research
   
   * Worked to optimize a high-throughput assay to diagnose allergy
   * Mentored a high school student in the summer of 2018
+  
+*  **Bruins in Genomics Summer Research Fellowship**	             	       
+
+June 2020-Present
+
+  * Received $4,000 stipend to fund and continue data science work on CVID 
+  * Presented at the Systems Biology journal club
+  * Created novel SIR model for COVID-19 Forecasting Hackathon 
 
 Volunteering and Service
 ======
@@ -112,6 +123,8 @@ Association of Biomedical Research Undergraduate Research Grant
 
 UCLA Chancellor's Service Award 					                                 
   * Given to graduating students with an extraordinary commitment to service
+
+UCLA BIG Summer COVID-19 Hackathon Winner	             	                    
 
 Relevant Coursework
 ======
