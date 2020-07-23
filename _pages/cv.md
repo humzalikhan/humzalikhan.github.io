@@ -117,14 +117,14 @@ Soohoo A, **Khan H**, Cevallos N, Hankerson B, Lu O, Kim J, Gonzalez L, Mosley V
 
 Awards
 ======
-Association of Biomedical Research Undergraduate Research Grant 
+* Association of Biomedical Research Undergraduate Research Grant 
   * Inaugural grant given on the basis of commitment to research
   * Funded summer research of 2019
 
-UCLA Chancellor's Service Award 					                                 
+* UCLA Chancellor's Service Award 					                                 
   * Given to graduating students with an extraordinary commitment to service
 
-UCLA BIG Summer COVID-19 Hackathon Winner	             	                    
+* UCLA BIG Summer COVID-19 Hackathon Winner	             	                    
 
 Relevant Coursework
 ======
