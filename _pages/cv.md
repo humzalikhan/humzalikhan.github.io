@@ -13,11 +13,10 @@ redirect_from:
 Education
 ======
 BS (in progress): University of California, Los Angeles — Microbiology, Immunology, and Molecular Genetics 
-
-  *Receiving Degree with Departmental Honors and an Emphasis on Advanced Independent Research* 	
   
-  *Departmental Honors Thesis: [A Systems-Level Analysis of Common Variable Immunodeficiency]* 
+  Departmental Honors Thesis: *A Systems-Level Analysis of Common Variable Immunodeficiency* 
 
+  *Receiving Degree with Highest Departmental Honors and an Emphasis on Advanced Independent Research* 	
   
   Expected Graduation: December 2020
 
