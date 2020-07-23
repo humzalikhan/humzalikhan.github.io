@@ -9,11 +9,10 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *Between The World and Me* by Ta-Nehisi Coates
+* *Fever Dream* by Samanta Schweblin
 * *The Rubaiyat of Omar Khayyam*
 
 **What I Want to Read**
-* *Fever Dream* by Samanta Schweblin
 * *I'm Thinking of Ending Things* by Iain Reid
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
 * *The Plague* by Albert Camus
