@@ -46,8 +46,8 @@ Research
   * Mentored a high school student in the summer of 2018
   
 *  **Bruins in Genomics Summer Research Fellowship**	             	       
-
-  June 2020-Present
+   
+   June 2020-Present
 
   * Received $4,000 stipend to fund and continue data science work on CVID 
   * Presented at the Systems Biology journal club
