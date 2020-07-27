@@ -34,7 +34,7 @@ Research
   * Creating a novel 2-component Gaussian Mixture Model methodology to analyze CyTOF signaling data
   * Making machine learning models to correlate signaling, exome data with clinical phenotype in CVID
   
-  *Adducin and CD4 T cell Costimulation*
+  *Adducin and CD4 T Cell Costimulation*
   
   * Utilized confocal microscopy and ImageJ to link the actin capping protein Alpha-Adducin to CD4 T-cell 
     costimulation
