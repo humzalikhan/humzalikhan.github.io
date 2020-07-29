@@ -47,6 +47,7 @@ Research
   
 *  **Bruins in Genomics Summer Research Fellowship**	             	       
    *Undergraduate Researcher*
+   
    June 2020-Present
 
    * Received $4,000 stipend to fund and continue data science work on CVID 
