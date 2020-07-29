@@ -24,7 +24,7 @@ Research
 ======
 
 * **Butte Lab**  
-  *Research Assistant* 
+  *Undergraduate Researcher* 
   
   February 2018-Present
   
@@ -46,12 +46,12 @@ Research
   * Mentored a high school student in the summer of 2018
   
 *  **Bruins in Genomics Summer Research Fellowship**	             	       
-   
+   *Undergraduate Researcher*
    June 2020-Present
 
-    * Received $4,000 stipend to fund and continue data science work on CVID 
-    * Presented at the Systems Biology journal club
-    * Created novel SIR model for COVID-19 Forecasting Hackathon 
+   * Received $4,000 stipend to fund and continue data science work on CVID 
+   * Presented at the Systems Biology journal club
+   * Created novel SIR model for COVID-19 Forecasting Hackathon 
 
 Volunteering and Service
 ======
