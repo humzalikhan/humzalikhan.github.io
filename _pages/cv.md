@@ -123,6 +123,9 @@ Awards
 
 * UCLA Chancellor's Service Award 					                                 
   * Given to graduating students with an extraordinary commitment to service
+  
+* UCLA Dean's Honor List 
+  * All quarters
 
 * UCLA BIG Summer COVID-19 Hackathon Winner	             	                    
 
