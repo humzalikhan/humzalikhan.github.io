@@ -9,7 +9,9 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *The Rubaiyat of Omar Khayyam*
+* *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
+    * Something about the pandemic has me re-reading a lot.
+* *The Rubaiyat of Omar Khayyam* (kinda)
 
 **What I Want to Read**
 * *I'm Thinking of Ending Things* by Iain Reid
@@ -32,7 +34,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *No Time to Lose* by Peter Piot
   * This book discusses several pandemics. While incredibly interesting, I got 250 pages in until I realized it made me more
      anxious about COVID and gave up on it.
-* *Slaughterhouse-Five* by Kurt Vonnegut
+* *Slaughterhouse-Five* by Kurt Vonnegut (Read #n)
   * One of my favorite books; when I first read it in 2015, this book ardently affirmed my stance as a pacifist. War is an 
     ugly thing that beast released by legislative executives who do not feel the brunt of it. War hurts the working class and 
     disenfranchised most, physically and mentally. By using time travel as a guise for PTSD, Vonnegut created a 
@@ -54,9 +56,10 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Stranger* by Albert Camus (Read #2)
   * Mersault embodies the Absurd. Throughout the book, he acknowledges that his decisions would not matter one way or another--saying that he would marry his mistress just as he'd marry anyone else, that it didn't matter that his mother was far         away while sick, that it didn't matter if he died at thirty or eighy. Mersault drifts through life with minimal ambition       or direction, besides his physical instincts. He has sex, eats, works, sleeps, and repeats. Mersault is Camus' antithesis     to the realization of an absurd, indifferent universe. Mersault creates no meaning for himself. 
   * Camus, on the other hand, was known for his handsomeness, his boisterous nature, and his kindness. He loved life in the       face of the Absurd, something that anyone who discovers the indifference of the universe should emulate. He loved humanity     and people; he once said that he learned much of his personal philosophy from the teamwork and ambition of soccer. In the     face of an indifferent world, we can only hope to live with as much zest for life as Camus--and to stay away from the         listless, laconic nature of Mersault.
+* *Between the World and Me* by Ta-Nehisi Coates
+  * Quite well-written and ethereal. The concept of a "body" really stuck with me. It got kind of dense/philosophically written and put it down 100 pages in, though.
 * *Deep Medicine* by Eric Topol
   * Eric Topol loves his neural networks. He does a really even handed job of explaining the follies and triumphs of utilizing AI in medicine; in particular, he emphasizes how algorithms can be easily fooled. For example, one that thought asthmatics did better with severe pneumonia erroneously. AI can be a black box--but it can't be that way when it infiltrates medicine. Topol also spends plenty of time talking about fine tuning algorithms and looking into the black box in order to glean insights. Migraine Alert, for example, predicts migraine onset before pain comes around! AI in medicine is creeping slowly and into individualized tasks. I genuinely hope that it can make some sense of giant microbiome/diet datasets and further the humanistic aspect of medicine. 
-  * It's pretty inspiring to see such an accomplished physician be so knowledgeable about computation as well. He laid out a fantastic roadmap describing how he hoped to see medicine become more empathetic through AI zapping away at time consuiming activities. He proposed a really interesting concept of having radiologists and pathologists review AI classified images and spending their extra time at the bedside of the patient. I wonder how many miscommunications have occurred because of radiologists or pathologists relaying information other docs don't know much about. With AI, hopefully we can avoid those. Here's hoping to a better, unified, data-driven health system. Or, you know, I could [move to the UK](https://www.nature.com/articles/s41586-020-2265-1).   
-  
+  * It's pretty inspiring to see such an accomplished physician be so knowledgeable about computation as well. He laid out a fantastic roadmap describing how he hoped to see medicine become more empathetic through AI zapping away at time consuiming activities. He proposed a really interesting concept of having radiologists and pathologists review AI classified images and spending their extra time at the bedside of the patient. I wonder how many miscommunications have occurred because of radiologists or pathologists relaying information other docs don't know much about. With AI, hopefully we can avoid those. Here's hoping to a better, unified, data-driven health system. Or, you know, I could [move to the UK](https://www.nature.com/articles/s41586-020-2265-1).  
 * *Fever Dream* by Samanta Schweblin
   * The book links horror and the consequences of environmental pollution gorgeously. Pretty quick read, I think I finished it in like a day and a half. I recommend it as a gripping, kinda trippy novella that's also an easy read. I've also never read any Argentine authors before!
