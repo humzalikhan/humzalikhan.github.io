@@ -127,7 +127,9 @@ Awards
 * UCLA Dean's Honor List 
   * All quarters
 
-* UCLA BIG Summer COVID-19 Hackathon Winner	             	                    
+* UCLA BIG Summer COVID-19 Hackathon Winner	   
+
+* BIG Summer Research Excellence Award	       
 
 Relevant Coursework
 ======
