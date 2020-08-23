@@ -11,10 +11,12 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I'm Reading**
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
+* *I'm Thinking of Ending Things* by Iain Reid
+    * My first audiobook!
+* *Chemistry* by Weike Wang
 * *The Rubaiyat of Omar Khayyam* (kinda)
 
 **What I Want to Read**
-* *I'm Thinking of Ending Things* by Iain Reid
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
 * *The Plague* by Albert Camus
 * *The Namesake* by Jhumpa Lahiri
