@@ -11,8 +11,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I'm Reading**
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
-* *I'm Thinking of Ending Things* by Iain Reid
-    * My first audiobook!
 * *Chemistry* by Weike Wang
 * *The Rubaiyat of Omar Khayyam* (kinda)
 
@@ -65,3 +63,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
   * It's pretty inspiring to see such an accomplished physician be so knowledgeable about computation as well. He laid out a fantastic roadmap describing how he hoped to see medicine become more empathetic through AI zapping away at time consuiming activities. He proposed a really interesting concept of having radiologists and pathologists review AI classified images and spending their extra time at the bedside of the patient. I wonder how many miscommunications have occurred because of radiologists or pathologists relaying information other docs don't know much about. With AI, hopefully we can avoid those. Here's hoping to a better, unified, data-driven health system. Or, you know, I could [move to the UK](https://www.nature.com/articles/s41586-020-2265-1).  
 * *Fever Dream* by Samanta Schweblin
   * The book links horror and the consequences of environmental pollution gorgeously. Pretty quick read, I think I finished it in like a day and a half. I recommend it as a gripping, kinda trippy novella that's also an easy read. I've also never read any Argentine authors before!
+* *I'm Thinking of Ending Things* by Iain Reid
+    * My first audiobook!
+    * Pretty spooky, but I thought the ending fell short. That's all I'll say! 
