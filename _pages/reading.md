@@ -11,7 +11,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I'm Reading**
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
-* *Chemistry* by Weike Wang
 * *The Rubaiyat of Omar Khayyam* (kinda)
 
 **What I Want to Read**
@@ -66,3 +65,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *I'm Thinking of Ending Things* by Iain Reid
     * My first audiobook!
     * Pretty spooky, but I thought the ending fell short. That's all I'll say! 
+* *Chemistry* by Weike Wang
+    * This is the story of a PhD student who burns out terribly in the lab, probably due to her pathologically strict upbringing. Unfortunately, this sort of mentality is incredibly common. I've had plenty of friends call my crying about the insane expectations that their parents have projected onto them from childhood. It's heartbreaking. There is something about the struggle mentality that parents' of immigrants have that does not translate over well to times of plenty. In times of struggle, many of our parents who made it to America had to be #1 in the class--and the alternative was staying in agrarian work or corrupt countries (in the case of my Dad, the latter). I don't think that many parents' of immigrants realize that the life vs. death mentality is somewhat less necessary now. 
+    * I thought the narrator was too angsty at the beginning of the book, but I soon started sympathizing way more with her as the book progressed. Her slow rotation towards happiness really brought a smile to my face. 
