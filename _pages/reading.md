@@ -11,7 +11,8 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I'm Reading**
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
-* *The Rubaiyat of Omar Khayyam* (kinda)
+* *Meditations* by Marcus Aurelius (kinda)
+* *The Book of Laughter and Forgetting* by Milan Kundera (kinda)
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
