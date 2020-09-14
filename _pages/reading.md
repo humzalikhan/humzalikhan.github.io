@@ -13,6 +13,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
     * Something about the pandemic has me re-reading a lot.
 * *Meditations* by Marcus Aurelius (kinda)
 * *The Book of Laughter and Forgetting* by Milan Kundera 
+* *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
