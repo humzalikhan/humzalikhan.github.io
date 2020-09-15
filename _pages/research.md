@@ -11,7 +11,9 @@ redirect_from:
 
 I have a commitment to work across the research spectrum--from basic science studies to clinical data analysis. Generally, though, my heart lies in the lab. 
 
-At some indeterminate time in the future, I plan on applying to MD-PhD programs.
+At some indeterminate time in the future, I plan on applying to MD-PhD programs. 
+
+I've been keeping track of the papers I read [here](https://humzalikhan.github.io/papers/). 
 
 **Basic and Translational Research**
 ======
