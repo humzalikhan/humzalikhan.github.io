@@ -13,9 +13,7 @@ redirect_from:
 
 [Sympathetic nervous tone limits the development of myeloid-derived suppressor cells](https://immunology.sciencemag.org/content/5/51/eaay9368)
 
-[A special collection of reviews on frontiers in immunology](https://www.nature.com/articles/s41422-020-00403-7.pdf)(A list of reviews that Richard Flavell curated)
-
-[A special collection of reviews on frontiers in immunology](https://www.nature.com/articles/s41422-020-00403-7.pdf)(A list of reviews that Richard Flavell curated)
+[A special collection of reviews on frontiers in immunology](https://www.nature.com/articles/s41422-020-00403-7.pdf) (A list of reviews that Richard Flavell curated)
 
 
 **Articles I've read**
