@@ -23,6 +23,8 @@ redirect_from:
 
 [A dynamic CD2-rich compartment at the outer edge of the immunological synapse boosts and integrates signals](https://www.nature.com/articles/s41590-020-0770-x)
 
+[PD-1 suppresses the maintenance of cell couples between cytotoxic T cells and target tumor cells within the tumor](https://stke.sciencemag.org/content/13/649/eaau4518)
+
 **Articles I've read**
 
 [Multifaceted Effects of Antigen Valency on B Cell Response Composition and Differentiation In Vivo](https://www.sciencedirect.com/science/article/pii/S1074761320303344)
