@@ -15,6 +15,13 @@ redirect_from:
 
 [A special collection of reviews on frontiers in immunology](https://www.nature.com/articles/s41422-020-00403-7.pdf) (A list of reviews that Richard Flavell curated)
 
+[Structural mechanism of cGAS inhibition by the nucleosome](https://www.nature.com/articles/s41586-020-2750-6)
+
+[Conserved Interferon-γ Signaling Drives Clinical Response to Immune Checkpoint Blockade Therapy in Melanoma](https://www.sciencedirect.com/science/article/abs/pii/S1535610820304165)
+
+[NR4A nuclear receptors restrain B cell responses to antigen when second signals are absent or limiting](https://www.nature.com/articles/s41590-020-0765-7)
+
+[A dynamic CD2-rich compartment at the outer edge of the immunological synapse boosts and integrates signals](https://www.nature.com/articles/s41590-020-0770-x)
 
 **Articles I've read**
 
