@@ -23,7 +23,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *Pity the Reader* by Kurt Vonnegut and Suzanne McConnell
 * *The Bell Jar* by Sylvia Plath
 * *The Color Purple* by Alice Walker
-
+* *Arrowsmith* by Sinclair Lewis
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
