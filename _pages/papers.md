@@ -25,6 +25,8 @@ redirect_from:
 
 [PD-1 suppresses the maintenance of cell couples between cytotoxic T cells and target tumor cells within the tumor](https://stke.sciencemag.org/content/13/649/eaau4518)
 
+[The mouse Sry locus harbors a cryptic exon that is essential for male sex determination])https://www.sciencemagazinedigital.org/sciencemagazine/02_october_2020_Main/MobilePagedArticle.action?articleId=1624888&app=false#articleId1624888)
+
 **Articles I've read**
 
 [Multifaceted Effects of Antigen Valency on B Cell Response Composition and Differentiation In Vivo](https://www.sciencedirect.com/science/article/pii/S1074761320303344)
