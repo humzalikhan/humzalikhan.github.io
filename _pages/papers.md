@@ -27,6 +27,8 @@ redirect_from:
 
 [The mouse Sry locus harbors a cryptic exon that is essential for male sex determination](https://www.sciencemagazinedigital.org/sciencemagazine/02_october_2020_Main/MobilePagedArticle.action?articleId=1624888&app=false#articleId1624888)
 
+[Identifying and Targeting Human Tumor Antigens for T Cell-Based Immunotherapy of Solid Tumors (Review)](https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30374-3?rss=yes&utm_source=dlvr.it&utm_medium=twitter)
+
 **Articles I've read**
 
 [Multifaceted Effects of Antigen Valency on B Cell Response Composition and Differentiation In Vivo](https://www.sciencedirect.com/science/article/pii/S1074761320303344)
