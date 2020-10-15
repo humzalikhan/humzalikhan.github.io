@@ -24,6 +24,8 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Bell Jar* by Sylvia Plath
 * *The Color Purple* by Alice Walker
 * *Arrowsmith* by Sinclair Lewis
+* *The Healing of America: A Global Quest for Better, Cheaper, and Fairer Health Care* by T.R. Reid
+* *Understanding Health Policy* by Bodenheimer and Grumbach
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
