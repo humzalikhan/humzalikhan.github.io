@@ -27,6 +27,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Healing of America: A Global Quest for Better, Cheaper, and Fairer Health Care* by T.R. Reid
 * *Understanding Health Policy* by Bodenheimer and Grumbach
 * *And What's Beyond That?* by Stanley Falkow
+* *Letters to a Young Scientist* by Edward O. Wilson
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
