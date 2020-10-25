@@ -9,11 +9,13 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
+* *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
+* *Letters to a Young Scientist* by Edward O. Wilson
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
 * *Meditations* by Marcus Aurelius (kinda)
 * *The Book of Laughter and Forgetting* by Milan Kundera 
-* *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
+
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
@@ -27,7 +29,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Healing of America: A Global Quest for Better, Cheaper, and Fairer Health Care* by T.R. Reid
 * *Understanding Health Policy* by Bodenheimer and Grumbach
 * *And What's Beyond That?* by Stanley Falkow
-* *Letters to a Young Scientist* by Edward O. Wilson
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
