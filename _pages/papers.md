@@ -29,6 +29,8 @@ redirect_from:
 
 [Identifying and Targeting Human Tumor Antigens for T Cell-Based Immunotherapy of Solid Tumors (Review)](https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30374-3?rss=yes&utm_source=dlvr.it&utm_medium=twitter)
 
+[Persistent STAT5 activation reprograms the epigenetic landscape in CD4+ T cells to drive polyfunctionality and antitumor immunity](https://immunology.sciencemag.org/content/5/52/eaba5962)
+
 **Articles I've read**
 
 [Multifaceted Effects of Antigen Valency on B Cell Response Composition and Differentiation In Vivo](https://www.sciencedirect.com/science/article/pii/S1074761320303344)
