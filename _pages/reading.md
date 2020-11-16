@@ -9,7 +9,6 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
 * *Letters to a Young Scientist* by Edward O. Wilson
 * *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
     * Something about the pandemic has me re-reading a lot.
@@ -75,3 +74,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *Chemistry* by Weike Wang
     * This is the story of a PhD student who burns out terribly in the lab, probably due to her pathologically strict upbringing. Unfortunately, this sort of mentality is incredibly common. I've had plenty of friends call my crying about the insane expectations that their parents have projected onto them from childhood. It's heartbreaking. There is something about the struggle mentality that parents' of immigrants have that does not translate over well to times of plenty. In times of struggle, many of our parents who made it to America had to be #1 in the class--and the alternative was staying in agrarian work or corrupt countries (in the case of my Dad, the latter). I don't think that many parents' of immigrants realize that the life vs. death mentality is somewhat less necessary now. 
     * I thought the narrator was too angsty at the beginning of the book, but I soon started sympathizing way more with her as the book progressed. Her slow rotation towards happiness really brought a smile to my face. 
+* *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
+  * Well, I'm an microbio/immunology major so David Baltimore has been mentioned in basically every class I've ever taken. I really, really enjoyed learning about his life, his first ventures into science (not too distinct from mine!), and his attitude (arrogant, but with the intelligence to back it up). 
+  * Crotty does a fantastic job of giving an even-handed discussion of hard topics like the Asilomar Conference on Recombinant DNA and the Imanishi-Kari Affair. He writes really, really well as a plus!
+  * On a personal note, the connection between molecular biology and history really got to me. I've been learning about PCRs and blots since middle school, but this really put the recency of molecular into contect for me. PCRs were made when my Dad was 21. I'm 21 now, and I wonder what life-changing achievments being currently developed will define the future of my field.  
