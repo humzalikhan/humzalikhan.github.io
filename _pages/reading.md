@@ -41,7 +41,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
      anxious about COVID and gave up on it.
 * *Slaughterhouse-Five* by Kurt Vonnegut (Read #n)
   * One of my favorite books; when I first read it in 2015, this book ardently affirmed my stance as a pacifist. War is an 
-    ugly thing that beast released by legislative executives who do not feel the brunt of it. War hurts the working class and 
+    ugly beast released by legislative executives who do not feel the brunt of it. War hurts the working class and 
     disenfranchised most, physically and mentally. By using time travel as a guise for PTSD, Vonnegut created a 
     heartbreakingly hilarious piece of fiction that sardonically discusses the bombing of Dresden and Billy Pilgrim's mental 
     collapse in the years following. 
@@ -77,4 +77,4 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *Ahead of the Curve: David Baltimore's Life in Science* by Shane Crotty 
   * Well, I'm an microbio/immunology major so David Baltimore has been mentioned in basically every class I've ever taken. I really, really enjoyed learning about his life, his first ventures into science (not too distinct from mine!), and his attitude (arrogant, but with the intelligence to back it up). 
   * Crotty does a fantastic job of giving an even-handed discussion of hard topics like the Asilomar Conference on Recombinant DNA and the Imanishi-Kari Affair. He writes really, really well as a plus!
-  * On a personal note, the connection between molecular biology and history really got to me. I've been learning about PCRs and blots since middle school, but this really put the recency of molecular into contect for me. PCRs were made when my Dad was 21. I'm 21 now, and I wonder what life-changing achievments being currently developed will define the future of my field.  
+  * On a personal note, the connection between molecular biology and history really got to me. I've been learning about PCRs and blots since middle school, but this really put the recency of molecular bio in context for me. PCRs were made when my Dad was 21. I'm 21 now, and I wonder what life-changing achievments being currently developed will define the future of my field.  
