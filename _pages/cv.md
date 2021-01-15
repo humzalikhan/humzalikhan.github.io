@@ -14,11 +14,11 @@ Education
 ======
 BS, University of California, Los Angeles — Microbiology, Immunology, and Molecular Genetics 
   
-  *Summa Cum Laude* and Highest Departmental Honors	
+  * *Summa Cum Laude* and Highest Departmental Honors	
     
-  Departmental Honors Thesis: *A Systems-Level Analysis of Common Variable Immunodeficiency* 
+  * Departmental Honors Thesis: *A Systems-Level Analysis of Common Variable Immunodeficiency* 
   
-  Date: December 2020
+  * Date: December 2020
 
 Research
 ======
