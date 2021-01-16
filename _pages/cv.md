@@ -12,13 +12,11 @@ redirect_from:
 
 Education
 ======
-BS, University of California, Los Angeles — Microbiology, Immunology, and Molecular Genetics 
+BS in Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles (12/20)
   
   * *Summa Cum Laude* and Highest Departmental Honors	
     
   * Departmental Honors Thesis: *A Systems-Level Analysis of Common Variable Immunodeficiency* 
-  
-  * Date: December 2020
 
 Research
 ======
@@ -33,6 +31,11 @@ Research
   * Optimized assay to measure phospho-protein levels in immunodeficiency patients
   * Creating a novel 2-component Gaussian Mixture Model methodology to analyze CyTOF signaling data
   * Making machine learning models to correlate signaling, exome data with clinical phenotype in CVID
+  
+  *Candidate Variants for Inborn Errors of Immunity*
+  * Utilized the OmniPath meta-database to find variants functionally related to known IEI genes
+  * Produced comprehensive list of IEI-related genes for novel IEI gene discovery in the clinic
+  * Creating an R Shiny Webapp to functionalize variants filtering for clinicians
   
   *Adducin and CD4 T Cell Costimulation*
   
@@ -103,6 +106,8 @@ Skills
   
 Publications
 ======
+**Khan HA**, Butte MJ (2021). Expanding the Potential Genes of Inborn Errors of Immunity through Protein Interactions. *In prep.*
+
 Thauland TJ, **Khan HA**, Butte MJ (2019). The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. [Link.](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full)
 
 Posters and Abstracts
