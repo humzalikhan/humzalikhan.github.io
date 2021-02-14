@@ -9,6 +9,10 @@ redirect_from:
 
 **Papers I want to read**
 
+[Mining exomic sequencing data to identify mutated antigens recognized by adoptively transferred tumor-reactive T cells](https://www.nature.com/articles/nm.3161.pdf?origin=ppub)
+
+[High-throughput epitope discovery reveals frequent recognition of neo-antigens by CD4+ T cells in human melanoma](https://www.nature.com/articles/nm.3773)
+
 [TCR Repertoire of Twins](https://www.pnas.org/content/111/16/5980)
 
 [Engineering and Design of Chimeric Antigen Receptors](https://www.sciencedirect.com/science/article/pii/S2329050118301335)
