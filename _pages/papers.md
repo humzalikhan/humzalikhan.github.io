@@ -9,6 +9,10 @@ redirect_from:
 
 **Papers I want to read**
 
+[Targeting Neoantigens in Hepatocellular Carcinoma for Immunotherapy: A Futile Strategy?](https://aasldpubs.onlinelibrary.wiley.com/doi/abs/10.1002/hep.31279)
+
+[Personalized neoantigen vaccines: a glimmer of hope for glioblastoma](https://www.tandfonline.com/doi/full/10.1080/14760584.2020.1750376?casa_token=y3RVU-fuKkwAAAAA%3ABfphv3WFlR7ogzY4PzcIE7aEOJYWepTyPUxbnjB-MEyznDhHF3Z6SzLSAT9xcZTKogTgUhaT0YlK)
+
 [Mining exomic sequencing data to identify mutated antigens recognized by adoptively transferred tumor-reactive T cells](https://www.nature.com/articles/nm.3161.pdf?origin=ppub)
 
 [High-throughput epitope discovery reveals frequent recognition of neo-antigens by CD4+ T cells in human melanoma](https://www.nature.com/articles/nm.3773)
