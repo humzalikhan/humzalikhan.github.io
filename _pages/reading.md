@@ -1,6 +1,6 @@
 ---
 permalink: /reading/
-title: "Reading"
+title: "Books"
 excerpt: 
 author_profile: true
 redirect_from: 
