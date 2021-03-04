@@ -9,11 +9,7 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *Letters to a Young Scientist* by Edward O. Wilson
-* *The House of God* by Samuel Shem AKA Stephen Bergman (Read #2)
-    * Something about the pandemic has me re-reading a lot.
-* *Meditations* by Marcus Aurelius (kinda)
-* *The Book of Laughter and Forgetting* by Milan Kundera 
+* *Born a Crime* by Trevor Noah
 
 
 **What I Want to Read**
@@ -28,6 +24,9 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Healing of America: A Global Quest for Better, Cheaper, and Fairer Health Care* by T.R. Reid
 * *Understanding Health Policy* by Bodenheimer and Grumbach
 * *And What's Beyond That?* by Stanley Falkow
+
+**What I've Read in 2021**
+* *A Funny Thing Happened on the Way to Stockholm* by Rob Lefkowitz and Randy Hall
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
