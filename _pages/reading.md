@@ -28,7 +28,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I've Read in 2021**
 * *A Funny Thing Happened on the Way to Stockholm* by Rob Lefkowitz and Randy Hall
-* * *Born a Crime* by Trevor Noah
+* *Born a Crime* by Trevor Noah
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
