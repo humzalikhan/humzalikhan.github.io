@@ -10,7 +10,7 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I'm Reading**
 * *The Code Breaker* by Walter Isaacson
-* *Ending Medical Reversal* by Walter Isaacson
+* *Ending Medical Reversal* by Vinay Prasad and Adam Cifu
 * *The Good Neighbor* by Maxwell King
 
 **What I Want to Read**
