@@ -34,4 +34,16 @@ Interestingly, valency seems to play a larger role in than affinity in establish
 
 They also found that higher valency vaccines recruit a broader repertoire of B cells with lower overall affinity to respond to antigenic challenge. That is, even with high affinity, lower antigen valency creates a competition where only highly specific B cells can respond. 
 
-Thoughts: I would have been really interested in seeing some 10x BCR sequencing data on the B cells between high and low valency. That could have driven home the point that there is increased clonality of B cells in high valency vaccinations. Overall, super cool work and it shows how important a thorough understanding of the physician landscape of antigens are in both initial and memory immune response. 
+Thoughts: I would have been really interested in seeing some 10x BCR sequencing data on the B cells between high and low valency. That could have driven home the point that there is increased clonality of B cells in high valency vaccinations. Overall, super cool work and it shows how important a thorough understanding of the physical landscape of antigens are in both initial and memory immune response. 
+
+[Functional HPV-specific PD-1+ stem-like CD8 T cells in head and neck cancer](https://www.nature.com/articles/s41586-021-03862-z)
+9/2/21 (after a hiatus–not of reading papers but of summarizing them!)
+
+Summary: By using tetramer staining and cell sorting, this paper is able to find HPV-specific CD8 TILs in head and neck cancer. This is somewhat unsurprising, as HPV is known to cause otolaryngological cancers; additionally, these viruses persist as episomes in our squamous epithelia. 
+Interestinly, it seems that around 1/2 of CD8s in the TME (both primary and metastatic) are PD-1+, suggesting persistent antigen exposure. Of those, ~20% are TCF-1+ (stem-like) and ~40% are TIM-3+ (a marker of terminal differentiation). They don't find the same populations, or really almost any HPV-specific T cells in the blood. 
+
+The authors then use scRNAseq and find three groups of HPV-specific T cells: stem-like (characterized by TCF7, LEF1, IL7R), transitory (characterized by PRDM1, FOS, JUN, IFNG), and terminally differentiated (characterized by HAVCR2 (TIM-3) and ENTPD1 (CD39)). All clusters expressed TOX, PDCD1, CTLA4, TIGIT.
+
+They then go to show that the stem-like have the capacity to proliferate and perform effector functions in response to antigen, while the terminally differentiated cells are moot.
+
+Thoughts: What *is* T cell exhaustion? It seems that this study shows a subset of exhausted T cells aren't really "exhausted" at all! They do express PD-1, so they must have seen antigen (or did they express it before?). I wonder if there is an upstream trajectory that controls whether or not a T cell will become stem-like. Did these stem-like cells express effector molecules and then quickly contract? Or have they simply delayed their effector response to future antigenic exposure? What transcriptional changes are associated with stem-like T cell activation Fig. 5 (ie, do they keep expressing TCF7 or do they lose it)? 
