@@ -10,8 +10,6 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 
 **What I'm Reading**
 * *The Code Breaker* by Walter Isaacson
-* *Ending Medical Reversal* by Vinay Prasad and Adam Cifu
-* *The Good Neighbor* by Maxwell King
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
@@ -29,6 +27,8 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 **What I've Read in 2021**
 * *A Funny Thing Happened on the Way to Stockholm* by Rob Lefkowitz and Randy Hall
 * *Born a Crime* by Trevor Noah
+* *The Prophet* by Khalil Gibran
+  * What a powerful little book of poetry. Don't agree with everything, but some very poignant points in it!
 
 **What I've Read in 2020**
 * *The Unbearable Lightness of Being* by Milan Kundera
