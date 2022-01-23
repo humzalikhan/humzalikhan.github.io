@@ -11,7 +11,7 @@ redirect_from:
 
 I have a commitment to work across the research spectrum--from basic science studies to clinical data analysis. Generally, though, my heart lies in the lab. 
 
-At some indeterminate time in the future, I plan on applying to MD-PhD programs. 
+Currently, I am applying to MD-PhD programs. 
 
 I've been keeping track of the papers I read [here](https://humzalikhan.github.io/papers/). 
 
@@ -20,11 +20,11 @@ I've been keeping track of the papers I read [here](https://humzalikhan.github.i
 
 I entered the [Butte laboratory](https://tcell.mimg.ucla.edu/) in my freshman year of college. I floundered around for a few months, trying to figure out how to use a pipette, before I became somewhat useful.
 
-Then, I spent some time working on a potential allergy diagnostic called the Basophil Activation Test. I spent about six months on this project. The test wasn't reliable across control donors, so we scrapped it. During this time, I mentored Ilan Bocian, a high school student who is now a freshman at Yeshiva University in New York.  
+Then, I spent some time working on a potential allergy diagnostic called the Basophil Activation Test. I spent about six months on this project. The test wasn't reliable across control donors, so we scrapped it. 
 
 After the BAT, I transitioned and began working with Tim Thauland, a staff scientist in our lab, on a project linking alpha-adducin, an actin-capping protein, to T cell costimulation. Our work showed a novel link between the cytoskeleton and complete activation of helper T cells. 
 
-At the same time, Manish introduced me to Cytometry by Time of Flight (CyTOF). Using some fantastic physics, CyTOF enables the single cell measurement of 35+ cellular proteins at once. I am utilizing this technology to study cell signaling in all known circulating immune cells of healthy donors and patients with Common Variable Immunodeficiency (CVID). 
+At the same time, I was introduced to Cytometry by Time of Flight (CyTOF). Using some fantastic physics, CyTOF enables the single cell measurement of 35+ cellular proteins at once. I am utilizing this technology to study cell signaling in all known circulating immune cells of healthy donors and patients with Common Variable Immunodeficiency (CVID). 
 
 CVID patients are incredibly heterogenous; most suffer primarily infectious complications, with a subset of patients also experiencing autoimmunity and other dysregulations. Patients with non-infectious complications have a significantly (read: 10x) higher risk of death than patients without these complications. 
 
