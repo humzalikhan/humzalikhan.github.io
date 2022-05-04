@@ -12,6 +12,9 @@ redirect_from:
 
 Education
 ======
+
+Medical Scientist Training Program (MD-PhD), Stanford University School of Medicine ('22-'31)
+
 BS in Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles (12/20)
   
   * *Summa Cum Laude* and Departmental Honors	
@@ -24,10 +27,10 @@ Research
 * **Butte Lab**  
   *Undergraduate Researcher* 
   
-  February 2018-Present
+  February 2018-April 2022
   
   *Common Variable Immunodeficiency*
-  * Utilizing Cytometry by Time of Flight (CyTOF) as a methodology to establish functional cellular differences in patients     with CVID
+  * Utilized Cytometry by Time of Flight (CyTOF) as a methodology to establish functional cellular differences in patients     with CVID
   * Optimized assay to measure phospho-protein levels in immunodeficiency patients
   * Creating a novel 2-component Gaussian Mixture Model methodology to analyze CyTOF signaling data
   * Making machine learning models to correlate signaling, exome data with clinical phenotype in CVID
