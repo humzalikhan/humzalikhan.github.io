@@ -109,7 +109,12 @@ Skills
   
 Publications
 ======
-**Khan HA**, Butte MJ (2021). Expanding the Potential Genes of Inborn Errors of Immunity through Protein Interactions. *In prep.*
+
+**Khan HA**, Acar U, Thauland TJ, Stephens AV, Butte MJ. Complicated Common Variable Immunodeficiency is Driven by Aberrant IL-10/IL-21 Signaling and Predisposed Polygenic Risk. medRxiv. https://doi.org/10.1101/2022.06.20.22276681.
+
+Aron JL, Thauland TJ, **Khan HA**, Butte MJ. Humanized mice bearing CRISPR/Cas9 Disruption of Signal Transducer and Activator of Transcription 1 (STAT1) to Model Primary Immunodeficiency. bioRxiv. https://doi.org/10.1101/2022.06.20.496920.
+
+**Khan HA**, Butte MJ (2021). Expanding the Potential Genes of Inborn Errors of Immunity through Protein Interactions. BMC Genomics 22, 618 (2021). https://doi.org/10.1186/ s12864-021-07909-3.
 
 Thauland TJ, **Khan HA**, Butte MJ (2019). The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. [Link.](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full)
 
