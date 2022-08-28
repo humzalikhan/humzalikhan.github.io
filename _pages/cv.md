@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-Medical Scientist Training Program (MD-PhD), Stanford University School of Medicine ('22-'31)
+Medical Scientist Training Program (MD-PhD), Stanford University School of Medicine ('22-'30)
 
 BS in Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles (12/20)
   
