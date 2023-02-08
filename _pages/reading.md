@@ -9,7 +9,8 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *The Code Breaker* by Walter Isaacson
+* *Verity* by Colleen Hoover
+* 
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
