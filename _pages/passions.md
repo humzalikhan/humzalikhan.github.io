@@ -33,10 +33,5 @@ Current favorites of mine include (but are not limited to) *Being Mortal* by Atu
 
 If you have a good book recommendation of any genre, I'm more than happy to hear about it.
 
-**Hiking**
-======
-
-I'm a trip lead in UCLA's Peaks and Professors. We coordinate and lead hikes with faculty and students to make the 30,000+ population of UCLA seem a bit smaller.
-
 
 
