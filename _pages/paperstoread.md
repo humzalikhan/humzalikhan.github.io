@@ -1,10 +1,10 @@
 ---
-permalink: /paperstoread/
+#permalink: /paperstoread/
 title: "Papers to Read"
 excerpt: 
 author_profile: true
-redirect_from: 
-  - /paperstoread
+#redirect_from: 
+#  - /paperstoread
 ---
 
 **Papers I want to read**
