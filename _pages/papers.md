@@ -1,10 +1,10 @@
 ---
-permalink: /papers/
+#permalink: /papers/
 title: "Papers"
 excerpt: 
 author_profile: true
-redirect_from: 
-  - /paper
+#redirect_from: 
+#  - /paper
 ---
 
 **Articles I've read**
