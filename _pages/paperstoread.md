@@ -2,7 +2,7 @@
 #permalink: /paperstoread/
 title: "Papers to Read"
 excerpt: 
-author_profile: true
+author_profile: false
 #redirect_from: 
 #  - /paperstoread
 ---
