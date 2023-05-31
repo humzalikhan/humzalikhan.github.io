@@ -9,14 +9,13 @@ redirect_from:
 I'm trying to keep track of what I read. In the past, I've been smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what I've read. 
 
 **What I'm Reading**
-* *Verity* by Colleen Hoover
-* 
+* *Klara and the Sun* by Kazuo Ishiguro
+* *Midnight's Children* by Salman Rushdie
 
 **What I Want to Read**
 * *Thinking Fast and Slow* by Daniel Kahneman (sorely overdue)
 * *The Plague* by Albert Camus
 * *The Namesake* by Jhumpa Lahiri
-* *Cat's Cradle* by Kurt Vonnegut
 * *Pity the Reader* by Kurt Vonnegut and Suzanne McConnell
 * *The Bell Jar* by Sylvia Plath
 * *The Color Purple* by Alice Walker
@@ -24,6 +23,8 @@ I'm trying to keep track of what I read. In the past, I've been smart enough to 
 * *The Healing of America: A Global Quest for Better, Cheaper, and Fairer Health Care* by T.R. Reid
 * *Understanding Health Policy* by Bodenheimer and Grumbach
 * *And What's Beyond That?* by Stanley Falkow
+
+*Note: I've been pretty bad at updating this–I still care about books.*
 
 **What I've Read in 2021**
 * *A Funny Thing Happened on the Way to Stockholm* by Rob Lefkowitz and Randy Hall
