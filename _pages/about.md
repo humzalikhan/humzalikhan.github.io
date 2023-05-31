@@ -7,7 +7,7 @@ redirect_from:
   - /about
   - /about.html
 ---
-I'm a first year MSTP (MD-PhD) student at Stanford University. 
+I'm a first year MSTP (MD-PhD) student at Stanford University, interested in immunoengineering, proteomics, and clinical immunology. 
 
 From 2018-2022, I was a volunteer/staff research associate in the Butte laboratory, working on T cell biology and clinical immunology. I graduated with my BS from UCLA in Microbiology, Immunology, and Molecular Genetics in December of 2020. Quite a mouthful, I know. If you want some specifics, they're listed in my CV [here](https://humzalikhan.github.io/cv/). 
 
