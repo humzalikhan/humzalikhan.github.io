@@ -11,12 +11,6 @@ main:
     
   - title: "Reading"
     url: /reading/
-    
-  - title: "Papers I've Read"
-    url: /papers/
-    
-  - title: "Papers to Read"
-    url: /paperstoread/
         
   - title: "Blog"
     url: /year-archive/
