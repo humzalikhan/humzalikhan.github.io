@@ -7,7 +7,9 @@ redirect_from:
   - /about
   - /about.html
 ---
-I'm a second year MSTP (MD-PhD) student at Stanford University, interested in lymph node biology, spatial proteomics, and clinical immunology. 
+I'm a third-year MSTP (MD-PhD) student at Stanford University, in the first year of my PhD in Immunology. I work with Prof. Sean Bendall on healthy human lymph node and bone marrow biology using spatial proteomics (MIBI-TOF). 
+
+_Past Work_
 
 From 2018-2022, I was a volunteer/staff research associate in the Butte laboratory, working on T cell biology and clinical immunology. I graduated with my BS from UCLA in Microbiology, Immunology, and Molecular Genetics in December of 2020. Quite a mouthful, I know. If you want some specifics, they're listed in my CV [here](https://humzalikhan.github.io/cv/). 
 
