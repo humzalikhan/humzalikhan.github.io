@@ -7,7 +7,7 @@ redirect_from:
   - /about
   - /about.html
 ---
-I'm a third-year MSTP (MD-PhD) student at Stanford University, in the first year of my PhD in Immunology. I work with Prof. Sean Bendall on healthy human lymph node and bone marrow biology using spatial proteomics (MIBI-TOF). 
+I'm a fourth-year MSTP (MD-PhD) student at Stanford University, in the second year of my PhD in Immunology. I work with Prof. Sean Bendall on T and B cell regulation in human lymph nodes using a mix of proteomic and sequencing-based approaches.
 
 _Past Work_
 
